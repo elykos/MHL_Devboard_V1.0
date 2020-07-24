@@ -1,0 +1,11 @@
+i2c_comm.c:31:5:initialize_expanders	32	static
+i2c_comm.c:91:5:configure_outputs	32	static
+i2c_comm.c:114:5:configure_pupd_enable_registers	32	static
+i2c_comm.c:135:5:configure_pupd_selection_registers	32	static
+i2c_comm.c:151:5:clear_all_outputs	32	static
+i2c_comm.c:168:10:read_all_inputs	88	static
+i2c_comm.c:178:10:read_all_outputs	88	static
+i2c_comm.c:188:10:read_interrupt_mask_register	88	static
+i2c_comm.c:198:10:read_interrupt_status_register	88	static
+i2c_comm.c:213:10:receive_data_from_pointer	32	static,ignoring_inline_asm
+i2c_comm.c:240:10:aligned_data	24	static
