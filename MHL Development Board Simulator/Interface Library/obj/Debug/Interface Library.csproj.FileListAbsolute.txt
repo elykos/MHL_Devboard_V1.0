@@ -1,0 +1,6 @@
+C:\Users\Manolis\Desktop\C# Projects\MHL Development Board Simulator\Interface Library\bin\Debug\Interface Library.dll
+C:\Users\Manolis\Desktop\C# Projects\MHL Development Board Simulator\Interface Library\bin\Debug\Interface Library.pdb
+C:\Users\Manolis\Desktop\C# Projects\MHL Development Board Simulator\Interface Library\obj\Debug\Interface Library.csprojAssemblyReference.cache
+C:\Users\Manolis\Desktop\C# Projects\MHL Development Board Simulator\Interface Library\obj\Debug\Interface Library.csproj.CoreCompileInputs.cache
+C:\Users\Manolis\Desktop\C# Projects\MHL Development Board Simulator\Interface Library\obj\Debug\Interface Library.dll
+C:\Users\Manolis\Desktop\C# Projects\MHL Development Board Simulator\Interface Library\obj\Debug\Interface Library.pdb
